@@ -29,3 +29,59 @@ You are welcome to submit papers or media that fall under one or more of the fol
 Please contribute one Markdown file per paper using the following template:
 
 ### File Naming Convention
+```
+submissions/lastname_year_shorttitle.md
+```
+
+### Markdown Template
+```markdown
+# 📄 Paper Summary
+
+**Title:**  
+**Authors:**  
+**Venue & Year:**  
+**Link to PDF or DOI:**  
+**Keywords:**  
+**Summary (3–5 sentences):**  
+**What’s novel or useful about this paper?**  
+**One question you’d ask the authors:**  
+**Personal Reflection (Optional):** What did you take away? How might this connect to your own interests?
+```
+
+You can copy the template from [`TEMPLATE.md`](TEMPLATE.md).
+
+## ✅ How to Contribute
+
+1. **Fork** this repository.
+2. Add your summary in the `submissions/` folder.
+3. Submit a **Pull Request** with your contribution.
+
+Alternatively, ask your instructor/TA for access if you are part of a course using this repo.
+
+## 🌟 Recommended Tools
+
+- [Semantic Scholar](https://www.semanticscholar.org/)
+- [Google Scholar](https://scholar.google.com/)
+- [ArXiv.org](https://arxiv.org/)
+- [Connected Papers](https://www.connectedpapers.com/)
+- [Perplexity.ai](https://www.perplexity.ai/) – for exploring topics with citations
+
+## 📅 Weekly Themes (Optional)
+
+To inspire reading variety, consider submitting based on themes:
+| Week | Theme |
+|------|-------|
+| 1 | Human-Centered AI Principles |
+| 2 | Multi-Modal Human-AI Interfaces |
+| 3 | AI in Education and Learning |
+| 4 | Collaborative Creativity |
+| … | … |
+
+## 🙌 Acknowledgments
+
+This repository is maintained by students and instructors from [Your Institution or Lab Name].  
+We welcome contributions and discussions from the broader research community.
+
+---
+
+📬 Questions? Suggestions? Open an issue or start a discussion!
