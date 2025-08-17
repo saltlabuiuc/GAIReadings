@@ -69,12 +69,13 @@ Alternatively, ask your instructor/TA for access if you are part of a course usi
 ## 📅 Weekly Themes (Optional)
 
 To inspire reading variety, consider submitting based on themes:
-| Week | Theme |
+| No. | Theme |
 |------|-------|
 | 1 | Human-Centered AI Principles |
 | 2 | Multi-Modal Human-AI Interfaces |
 | 3 | AI in Education and Learning |
 | 4 | Collaborative Creativity |
+| 5 | LLMs Survey papers |
 | … | … |
 
 ## 🙌 Acknowledgments
