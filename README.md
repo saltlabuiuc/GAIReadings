@@ -80,7 +80,7 @@ To inspire reading variety, consider submitting based on themes:
 
 ## 🙌 Acknowledgments
 
-This repository is maintained by students and instructors from [Your Institution or Lab Name].  
+This repository is maintained by students and instructors from the "Introduction to Generative AI" Course at the UIUC's iSchool.  
 We welcome contributions and discussions from the broader research community.
 
 ---
